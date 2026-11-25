@@ -1,0 +1,10 @@
+{
+  "client_id": "https://sn65do.github.io/swarm-mcp/gemini.json",
+  "client_name": "Gemini Swarm MCP",
+  "redirect_uris": [
+    "https://oauth-redirect.googleusercontent.com/r/user_bound_custom-mcp-b40e3c7e2cd8974315abcddd"
+  ],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
